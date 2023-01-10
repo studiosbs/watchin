@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: rgba(0, 0, 0, 0.87);
+    font-family: Sora;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar .navbar-menu .navbar-item{
+    font-size: 1rem;
+    font-weight: 600 !important;
+    padding: 25px !important;
+}
+
+.navbar .navbar-menu .navbar-item.is-active, .navbar .navbar-menu .navbar-item:hover{
+    border-radius: 0 !important;
+    background-color: transparent !important;
+}
+
+.navbar .navbar-menu .navbar-item.is-active{
+    border-bottom: 5px solid red !important;
+}
+
+.navbar-brand{
+    margin-right: 40px;
+}
