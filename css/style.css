@@ -248,6 +248,10 @@ a{
     height: 18vh;
 }
 
+.carousel-description{
+    margin-bottom: 20px;
+}
+
 .carousel-control-next, .carousel-control-prev{
     width: 5%;
     opacity: .3;
