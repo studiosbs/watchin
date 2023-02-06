@@ -243,6 +243,11 @@ a{
     z-index: 5;
 }
 
+.carousel__img-logo{
+    margin-bottom: 20px;
+    height: 18vh;
+}
+
 .carousel-control-next, .carousel-control-prev{
     width: 5%;
     opacity: .3;
