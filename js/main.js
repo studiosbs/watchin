@@ -1,21 +1,16 @@
-document.addEventListener('DOMContentLoaded', () => {
+(function ($)
+  { "use strict"
 
-    // Get all "navbar-burger" elements
-    const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-  
-    // Add a click event on each of them
-    $navbarBurgers.forEach( el => {
-      el.addEventListener('click', () => {
-  
-        // Get the target from the "data-target" attribute
-        const target = el.dataset.target;
-        const $target = document.getElementById(target);
-  
-        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-        el.classList.toggle('is-active');
-        $target.classList.toggle('is-active');
-  
-      });
+/* 2. sticky And Scroll UP */
+    $(window).on('scroll', function () {
+      var scroll = $(window).scrollTop();
+      if (scroll < 400) {
+        $(".header-sticky").removeClass("sticky-bar");
+        $('#back-top').fadeOut(500);
+      } else {
+        $(".header-sticky").addClass("sticky-bar");
+        $('#back-top').fadeIn(500);
+      }
     });
-  
-  });
+
+})(jQuery);
