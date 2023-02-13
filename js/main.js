@@ -45,8 +45,8 @@ $(document).ready(function () {
     arrows: true,
     infinite: false,
     slidesToShow: 4,
-    prevArrow: $('#forkinds-prev'),
-    nextArrow: $('#forkinds-next'),
+    prevArrow: $('#forkids-prev'),
+    nextArrow: $('#forkids-next'),
   });
   $('related').slick({
     accessibility: true,
