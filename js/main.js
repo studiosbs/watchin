@@ -56,4 +56,12 @@ $(document).ready(function () {
     prevArrow: $('#related-prev'),
     nextArrow: $('#related-next'),
   });
+  $('season_1').slick({
+    accessibility: true,
+    arrows: true,
+    infinite: false,
+    slidesToShow: 4,
+    prevArrow: $('#season_1-prev'),
+    nextArrow: $('#season_1-next'),
+  });
 });
