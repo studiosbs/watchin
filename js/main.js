@@ -4,7 +4,7 @@
 /* 2. sticky And Scroll UP */
     $(window).on('scroll', function () {
       var scroll = $(window).scrollTop();
-      if (scroll < 400) {
+      if (scroll < 200) {
         $(".header-sticky").removeClass("sticky-bar");
         $('#back-top').fadeOut(500);
       } else {
@@ -19,7 +19,7 @@ $(document).ready(function () {
   $('#trending').slick({
     accessibility: true,
     arrows: true,
-    infinite: false,
+    infinite: true,
     slidesToShow: 4,
     prevArrow: $('#trending-prev'),
     nextArrow: $('#trending-next'),
@@ -64,4 +64,15 @@ $(document).ready(function () {
     prevArrow: $('#season_1-prev'),
     nextArrow: $('#season_1-next'),
   });
+});
+
+$('#row1').slick({
+  accessibility: true,
+  arrows: true,
+  infinite: true,
+  slidesToShow: 5,
+  slidesToScroll: 5,
+  prevArrow: $('.handlePrev'),
+  nextArrow: $('.handleNext'),
+  variableWidth: true
 });
