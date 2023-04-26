@@ -1,0 +1,233 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\repos\\Watchin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Watchin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Watchin.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\brands.css",
+      "PackagePath": "staticwebassets\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\font.css",
+      "PackagePath": "staticwebassets\\css\\font.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\net.css",
+      "PackagePath": "staticwebassets\\css\\net.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\regular.css",
+      "PackagePath": "staticwebassets\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\solid.css",
+      "PackagePath": "staticwebassets\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\img\\favicon_144x144.png",
+      "PackagePath": "staticwebassets\\img\\favicon_144x144.png"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\img\\favicon_32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicon_32x32.png"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\img\\favicon_48x48.png",
+      "PackagePath": "staticwebassets\\img\\favicon_48x48.png"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\img\\favicon_96x96.png",
+      "PackagePath": "staticwebassets\\img\\favicon_96x96.png"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\img\\icon.png",
+      "PackagePath": "staticwebassets\\img\\icon.png"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\movie-details.html",
+      "PackagePath": "staticwebassets\\movie-details.html"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\movies.html",
+      "PackagePath": "staticwebassets\\movies.html"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\series.html",
+      "PackagePath": "staticwebassets\\series.html"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\show-details.html",
+      "PackagePath": "staticwebassets\\show-details.html"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\repos\\Watchin\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Watchin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Watchin.props",
+      "PackagePath": "build\\Watchin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Watchin.props",
+      "PackagePath": "buildMultiTargeting\\Watchin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Watchin.props",
+      "PackagePath": "buildTransitive\\Watchin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
