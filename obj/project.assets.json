@@ -2460,11 +2460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\Watchin\\Watchin.csproj",
+      "projectUniqueName": "E:\\sbsvideos\\Watchin.csproj",
       "projectName": "Watchin",
-      "projectPath": "E:\\repos\\Watchin\\Watchin.csproj",
+      "projectPath": "E:\\sbsvideos\\Watchin.csproj",
       "packagesPath": "C:\\Users\\byusu\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\Watchin\\obj\\",
+      "outputPath": "E:\\sbsvideos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
