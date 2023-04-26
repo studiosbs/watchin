@@ -666,9 +666,12 @@ nav:before {
     font-size: 1.6em;
     margin: 0.5em 0.5em 0.5em 0;
     min-height: 40px;
-    padding: 12px 2em;
+    padding: 0.5em 2em;
     position: relative;
-    font-weight: 700;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn-primary {
@@ -1217,7 +1220,7 @@ footer {
 }
 
 .lolomo.is-fullbleed {
-    /* margin-top: -70px; */
+     margin-top: -70px; 
 }
 
 .lolomo {

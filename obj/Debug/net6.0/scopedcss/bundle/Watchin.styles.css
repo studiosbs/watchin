@@ -153,7 +153,11 @@ nav[b-d3yexukwxd]:before {
 }
 
 .navbar .container-fluid[b-d3yexukwxd] {
-    padding: 0 5%;
+    padding: 0 4%;
+}
+
+.header-area[b-d3yexukwxd]{
+    height: 70px;
 }
 
 .blur-effect[b-d3yexukwxd] {
@@ -181,8 +185,9 @@ nav[b-d3yexukwxd]:before {
 }
 
 .navbar .nav-link[b-d3yexukwxd] {
+    color: #fff;
     font-size: 1.4em;
-    font-weight: 700;
+    font-weight: 500;
     padding: 28px !important;
 }
 
@@ -191,11 +196,13 @@ nav[b-d3yexukwxd]:before {
 }
 
 .navbar .nav-link.active[b-d3yexukwxd] {
+    font-weight: 700;
     border-radius: 0;
     background-color: transparent;
 }
 
 .navbar .nav-link.active[b-d3yexukwxd], .nav-link:focus[b-d3yexukwxd], .nav-link:hover[b-d3yexukwxd] {
+    color: rgba(248,249,250, .65);
     color: #fff;
 }
 
@@ -206,11 +213,19 @@ nav[b-d3yexukwxd]:before {
     color: #5200ff;
 }
 
-    .navbar-brand svg[b-d3yexukwxd] {
-        fill: #5200ff;
-        height: 35px;
-    }
+.navbar-brand svg[b-d3yexukwxd] {
+    fill: #5200ff;
+    height: 35px;
+}
 
-        .navbar-brand svg path[b-d3yexukwxd] {
-            fill: #5200ff;
-        }
+.navbar-brand svg path[b-d3yexukwxd] {
+    fill: #5200ff;
+}
+
+.navbar .btn[b-d3yexukwxd]{
+    padding: 0 1em;
+}
+
+.search-btn i[b-d3yexukwxd] {
+    font-size: 1.4em;
+}

@@ -71,7 +71,11 @@ nav:before {
 }
 
 .navbar .container-fluid {
-    padding: 0 5%;
+    padding: 0 4%;
+}
+
+.header-area{
+    height: 70px;
 }
 
 .blur-effect {
@@ -99,8 +103,9 @@ nav:before {
 }
 
 .navbar .nav-link {
+    color: #fff;
     font-size: 1.4em;
-    font-weight: 700;
+    font-weight: 500;
     padding: 28px !important;
 }
 
@@ -109,11 +114,13 @@ nav:before {
 }
 
 .navbar .nav-link.active {
+    font-weight: 700;
     border-radius: 0;
     background-color: transparent;
 }
 
 .navbar .nav-link.active, .nav-link:focus, .nav-link:hover {
+    color: rgba(248,249,250, .65);
     color: #fff;
 }
 
@@ -124,11 +131,19 @@ nav:before {
     color: #5200ff;
 }
 
-    .navbar-brand svg {
-        fill: #5200ff;
-        height: 35px;
-    }
+.navbar-brand svg {
+    fill: #5200ff;
+    height: 35px;
+}
 
-        .navbar-brand svg path {
-            fill: #5200ff;
-        }
+.navbar-brand svg path {
+    fill: #5200ff;
+}
+
+.navbar .btn{
+    padding: 0 1em;
+}
+
+.search-btn i {
+    font-size: 1.4em;
+}
