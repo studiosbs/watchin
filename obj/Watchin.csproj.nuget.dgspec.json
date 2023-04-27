@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\sbsvideos\\Watchin.csproj": {}
+    "E:\\watchin\\Watchin.csproj": {}
   },
   "projects": {
-    "E:\\sbsvideos\\Watchin.csproj": {
+    "E:\\watchin\\Watchin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\sbsvideos\\Watchin.csproj",
+        "projectUniqueName": "E:\\watchin\\Watchin.csproj",
         "projectName": "Watchin",
-        "projectPath": "E:\\sbsvideos\\Watchin.csproj",
+        "projectPath": "E:\\watchin\\Watchin.csproj",
         "packagesPath": "C:\\Users\\byusu\\.nuget\\packages\\",
-        "outputPath": "E:\\sbsvideos\\obj\\",
+        "outputPath": "E:\\watchin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,215 +1,231 @@
 {
   "Files": [
     {
-      "Id": "E:\\sbsvideos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Watchin.bundle.scp.css",
+      "Id": "E:\\watchin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Watchin.bundle.scp.css",
       "PackagePath": "staticwebassets\\Watchin.bundle.scp.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\README.md",
+      "Id": "E:\\watchin\\wwwroot\\README.md",
       "PackagePath": "staticwebassets\\README.md"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\all.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\all.css",
       "PackagePath": "staticwebassets\\css\\all.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\all.min.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\all.min.css",
       "PackagePath": "staticwebassets\\css\\all.min.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "E:\\watchin\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\brands.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\brands.css",
       "PackagePath": "staticwebassets\\css\\brands.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\brands.min.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\css\\brands.min.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\font.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\font.css",
       "PackagePath": "staticwebassets\\css\\font.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\fontawesome.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\fontawesome.min.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\net.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\net.css",
       "PackagePath": "staticwebassets\\css\\net.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "E:\\watchin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\regular.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\regular.css",
       "PackagePath": "staticwebassets\\css\\regular.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\regular.min.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\css\\regular.min.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\site.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\solid.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\solid.css",
       "PackagePath": "staticwebassets\\css\\solid.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\solid.min.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\css\\solid.min.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\css\\style.css",
+      "Id": "E:\\watchin\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\favicon.ico",
+      "Id": "E:\\watchin\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\img\\favicon_144x144.png",
+      "Id": "E:\\watchin\\wwwroot\\img\\favicon_144x144.png",
       "PackagePath": "staticwebassets\\img\\favicon_144x144.png"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\img\\favicon_32x32.png",
+      "Id": "E:\\watchin\\wwwroot\\img\\favicon_32x32.png",
       "PackagePath": "staticwebassets\\img\\favicon_32x32.png"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\img\\favicon_48x48.png",
+      "Id": "E:\\watchin\\wwwroot\\img\\favicon_48x48.png",
       "PackagePath": "staticwebassets\\img\\favicon_48x48.png"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\img\\favicon_96x96.png",
+      "Id": "E:\\watchin\\wwwroot\\img\\favicon_96x96.png",
       "PackagePath": "staticwebassets\\img\\favicon_96x96.png"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\img\\icon.png",
+      "Id": "E:\\watchin\\wwwroot\\img\\icon.png",
       "PackagePath": "staticwebassets\\img\\icon.png"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\index.html",
+      "Id": "E:\\watchin\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\js\\main.js",
+      "Id": "E:\\watchin\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\watchin\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\watchin\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\movie-details.html",
+      "Id": "E:\\watchin\\wwwroot\\movie-details.html",
       "PackagePath": "staticwebassets\\movie-details.html"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\movies.html",
+      "Id": "E:\\watchin\\wwwroot\\movies.html",
       "PackagePath": "staticwebassets\\movies.html"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\series.html",
+      "Id": "E:\\watchin\\wwwroot\\net.html",
+      "PackagePath": "staticwebassets\\net.html"
+    },
+    {
+      "Id": "E:\\watchin\\wwwroot\\net.js",
+      "PackagePath": "staticwebassets\\net.js"
+    },
+    {
+      "Id": "E:\\watchin\\wwwroot\\series.html",
       "PackagePath": "staticwebassets\\series.html"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\show-details.html",
+      "Id": "E:\\watchin\\wwwroot\\show-details.html",
       "PackagePath": "staticwebassets\\show-details.html"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-duotone-900.ttf",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-duotone-900.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-duotone-900.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-duotone-900.woff2",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-duotone-900.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-duotone-900.woff2"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-light-300.ttf",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-light-300.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-light-300.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-light-300.woff2",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-light-300.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-light-300.woff2"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-thin-100.ttf",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-thin-100.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-thin-100.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-thin-100.woff2",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-thin-100.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-thin-100.woff2"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Id": "E:\\sbsvideos\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "Id": "E:\\watchin\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
     },
     {

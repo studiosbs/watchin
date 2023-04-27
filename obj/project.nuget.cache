@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cuFKNEb8XcbPQ/gS3nWX5HINZaoktzOBNftQLEa20mstRMAVbLUfDdXkqUSpSwHqcOC1M0z7yFxi5RK+kyx1Og==",
+  "dgSpecHash": "ASbtu7JBsbzDE5V5vthr7tvtmG4ty/1N5YF/M6apY2XtBRJ1rBW49peO7r5lj2z9Dx2VpLh+E275QhhYZwE7Mg==",
   "success": true,
-  "projectFilePath": "E:\\sbsvideos\\Watchin.csproj",
+  "projectFilePath": "E:\\watchin\\Watchin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\byusu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\byusu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.15\\microsoft.aspnetcore.cryptography.internal.6.0.15.nupkg.sha512",

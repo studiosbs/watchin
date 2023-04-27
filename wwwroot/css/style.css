@@ -1146,12 +1146,6 @@ nav:before {
     opacity: 1;
 }
 
-@media screen and (min-height: 500px) {
-    .swiper {
-        height: 20vh;
-    }
-}
-
 .slick-button-prev:after {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
 }
@@ -1516,7 +1510,7 @@ footer {
         margin: 0 4% 1.2em;
         min-width: 6em;
         text-decoration: none;
-        align-items: center;
+        align-items: stretch;
     }
 
         .lolomoRow.lolomoRow_title_card .rowTitle .row-header-title {
@@ -1529,6 +1523,7 @@ footer {
             cursor: pointer;
             display: flex;
             font-size: .9vw;
+            line-height: 1.3;
             margin-right: 4px;
             max-width: 0;
             opacity: 0;
@@ -1710,6 +1705,8 @@ footer {
         transform: translate(1vw);
         width: 1vw;
         height: 1vw;
+        display: flex;
+        align-items: center;
     }
 
 @media screen and (max-width: 800px) {
@@ -1802,6 +1799,10 @@ footer {
     touch-action: pan-y;
 }
 
+.swiper-button-disabled {
+    display: none !important;
+}
+
 .lolomoRow .slick-dots {
     display: none;
     list-style-type: none;
@@ -1824,14 +1825,14 @@ footer {
         white-space: nowrap;
     }
 
-        .slider .slick-list .slick-track .slider-item:first-child {
-            padding-left: 0;
+        .slider .slick-wrapper .slider-item:first-child {
+            margin-left: 0;
         }
 
-        .slider .slick-list .slick-track .slider-item {
+        .slider .slick-wrapper .slider-item {
             box-sizing: border-box;
             display: inline-block;
-            padding: 0 0.2vw;
+            margin: 0 0.2vw !important;
             position: relative;
             vertical-align: top;
             white-space: normal;
@@ -1929,7 +1930,7 @@ footer {
 .slider .handle {
     bottom: 0;
     color: #fff;
-    display: flex !important;
+    display: flex;
     justify-content: center;
     position: absolute;
     text-align: center;
@@ -1960,7 +1961,14 @@ footer {
     .slider .handle > .indicator-icon {
         font-size: 2em
     }
+    .navbar .container-fluid {
+        padding: 0 60px;
+    }
+    .slider {
+        padding: 0 60px;
+    }
 }
+
 
 .slider .handle.handlePrev {
     border-bottom-right-radius: 4px;
@@ -2023,14 +2031,6 @@ footer {
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 100% 100%;
-}
-
-.handle.handleNext .indicator-icon {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
-}
-
-.handle.handlePrev .indicator-icon {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
 }
 
 @media screen and (max-width: 499px) {

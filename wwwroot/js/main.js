@@ -16,7 +16,7 @@
 })(jQuery);
 
 $(document).ready(function () {
-    $('#trending').slick({
+    /*$('#trending').slick({
         accessibility: true,
         arrows: true,
         infinite: true,
@@ -65,13 +65,57 @@ $(document).ready(function () {
         nextArrow: $('#season_1-next'),
     });
     $('#row1').slick({
-        accessibility: true,
-        arrows: true,
-        infinite: true,
         slidesToShow: 5,
         slidesToScroll: 5,
         prevArrow: $('.handlePrev'),
         nextArrow: $('.handleNext'),
-        variableWidth: true
-    });
+        variableWidth: false,
+        onInit: function () {
+            console.log('working');
+        },
+        afterChange: function (currentSlide) {
+            console.log(currentSlide);
+            $('.slider').slick('slickSetOption', 'infinite', true);
+            console.log('loop: on');
+        },
+    });*/
 });
+
+var swiper = new Swiper('.swiper', {
+    // Optional parameters
+    slidesPerView: 5,
+    spaceBetween: 5,
+    slidesPerGroup: 5,
+    loop: false,
+
+    // Navigation arrows
+    navigation: {
+        nextEl: '.handleNext',
+        prevEl: '.handlePrev',
+    },
+});
+
+// when the button is clicked, load the content and show the modal
+$('#previewModal').on('show.bs.modal', function(event) {
+    console.log('opened');
+    // get the film details page URL and title
+    var filmDetailsUrl = '/movie-details';
+    var filmDetailsTitle = 'watchin';
+    var filmTitle = 'Rise of Empires: Ottoman';  // replace with actual film title from page content
+    
+    function change(){
+      document.title = filmTitle + ' - ' + filmDetailsTitle;
+      console.log('Title changed to: ' + document.title);
+      history.pushState({}, '', filmDetailsUrl);
+    }
+
+    // load the content of the film details page into the modal
+    $(this).find('.modal-content').load(filmDetailsUrl + '.html', change());
+  });
+  
+  // when the modal is hidden, restore the page title and URL
+  $('#previewModal').on('hidden.bs.modal', function(event) {
+    document.title = 'Home - wanchin'; // replace with actual home page title
+    console.log('Title changed to: ' + document.title);
+    history.pushState({}, '', '/');
+  });

@@ -77,6 +77,12 @@ nav[b-d3yexukwxd]:before {
 .header-area[b-d3yexukwxd]{
     height: 70px;
 }
+@media screen and (min-width: 1500px) {
+    .navbar .container-fluid[b-d3yexukwxd] {
+        padding: 0 60px;
+    }
+
+}
 
 .blur-effect[b-d3yexukwxd] {
     background-color: rgba(0, 0, 0, 0.5);
