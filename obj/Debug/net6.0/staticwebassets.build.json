@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f1lSUkf+vurTvW8ranGfDEc+WSET/8n4AtYDZbS/GIE=",
+  "Hash": "FikslerE2wKCGvdPY7qksVJKzWjFTH7PzeY+DF5ApIU=",
   "Source": "Watchin",
   "BasePath": "_content/Watchin",
   "Mode": "Default",
@@ -1664,6 +1664,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "E:\\watchin\\wwwroot\\js\\swiper-element.min.js",
+      "SourceId": "Watchin",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\watchin\\wwwroot\\",
+      "BasePath": "_content/Watchin",
+      "RelativePath": "js/swiper-element.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\swiper-element.min.js"
     },
     {
       "Identity": "E:\\watchin\\wwwroot\\movie-details.html",

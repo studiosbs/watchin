@@ -149,6 +149,10 @@
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
+      "Id": "E:\\watchin\\wwwroot\\js\\swiper-element.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper-element.min.js"
+    },
+    {
       "Id": "E:\\watchin\\wwwroot\\movie-details.html",
       "PackagePath": "staticwebassets\\movie-details.html"
     },

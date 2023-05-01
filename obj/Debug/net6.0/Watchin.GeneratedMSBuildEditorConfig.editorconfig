@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/watchin/Pages/Series-Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VyaWVzLURldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/watchin/Shared/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,10 +70,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/watchin/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/watchin/Pages/series-details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2VyaWVzLWRldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/watchin/Pages/_Host.cshtml]

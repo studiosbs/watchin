@@ -16,6 +16,18 @@
 })(jQuery);
 
 $(document).ready(function () {
+    var swiper = new Swiper('.swiper', {
+        // Optional parameters
+        loop: false,
+        slidesPerView: 5,
+        spaceBetween: 5,
+        slidesPerGroup: 5,
+        // Navigation arrows
+        navigation: {
+            nextEl: '.handleNext',
+            prevEl: '.handlePrev',
+        },
+    });
     /*$('#trending').slick({
         accessibility: true,
         arrows: true,
@@ -79,20 +91,6 @@ $(document).ready(function () {
             console.log('loop: on');
         },
     });*/
-});
-
-var swiper = new Swiper('.swiper', {
-    // Optional parameters
-    slidesPerView: 5,
-    spaceBetween: 5,
-    slidesPerGroup: 5,
-    loop: false,
-
-    // Navigation arrows
-    navigation: {
-        nextEl: '.handleNext',
-        prevEl: '.handlePrev',
-    },
 });
 
 // when the button is clicked, load the content and show the modal

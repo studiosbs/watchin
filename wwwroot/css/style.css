@@ -1817,22 +1817,19 @@ footer {
     width: 100vh;
 }
 
-.slider .slick-list {
+.slider .slider-wrapper {
     overflow: visible;
+    white-space: nowrap;
 }
 
-    .slider .slick-list .slick-track {
-        white-space: nowrap;
-    }
-
-        .slider .slick-wrapper .slider-item:first-child {
+        .slider .slider-wrapper .slider-item:first-child {
             margin-left: 0;
         }
 
-        .slider .slick-wrapper .slider-item {
+        .slider .slider-wrapper .slider-item {
             box-sizing: border-box;
             display: inline-block;
-            margin: 0 0.2vw !important;
+            margin: 0 0.2vw;
             position: relative;
             vertical-align: top;
             white-space: normal;
