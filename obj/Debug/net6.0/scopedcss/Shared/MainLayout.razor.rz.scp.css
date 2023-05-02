@@ -9,7 +9,7 @@ body[b-ip1aaxzdm0] {
 
 .page[b-ip1aaxzdm0] {
     position: relative;
-    overflow: hidden;
+    overflow:visible;
     background-color: #141414;
 }
 

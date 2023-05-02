@@ -777,10 +777,10 @@ nav:before {
 
 .hero-img {
     margin-bottom: 20px;
-    height: 18vh;
     margin: 120px 0;
-    /* left: 0; */
-    z-index: 3;
+    left: 3em;
+    position: absolute;
+    width: 40%;
 }
 
 .hero-description p {
@@ -1199,14 +1199,6 @@ nav:before {
     padding-right: 10px;
 }
 
-footer {
-    background-color: #000;
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-}
-
 .mainView {
     min-height: 1000px;
     position: relative;
@@ -1487,6 +1479,7 @@ footer {
 .lolomoRow {
     outline: 0;
     position: relative;
+    overflow: hidden;
 }
 
 .lolomoRow, .rowContainer {
@@ -1829,7 +1822,7 @@ footer {
         .slider .slider-wrapper .slider-item {
             box-sizing: border-box;
             display: inline-block;
-            margin: 0 0.2vw;
+            /*margin: 0 0.2vw;*/
             position: relative;
             vertical-align: top;
             white-space: normal;
@@ -2291,4 +2284,52 @@ footer {
     position: absolute;
     top: 0;
     transition: height .2s ease-in-out;
+}
+
+.hero .storyArt {
+    overflow: hidden;
+    padding-top: 56.3925%;
+    width: 100%;
+}
+
+.hero .storyArt .playerModel--player__storyArt {
+    display: block;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transition: height .2s ease-in-out;
+}
+
+.details{
+    margin-top: -70px;
+}
+
+.details .billboard{
+    overflow: hidden;
+}
+
+.details .hero-img{
+    z-index: 12;
+}
+
+.details .info {
+    bottom: 6vw !important;
+    width: 100% !important;
+}
+
+.details .info .billboard-title {
+        margin-bottom: 3vw !important;
+        min-height: 13.2vw;
+        position: relative;
+        width: 36%;
+    }
+
+.details .hero-details{
+    z-index: 12;
+}
+
+.details .hero-image-wrapper .hero-vignette {
+    bottom: 0 !important;
+    height: 25.7vw !important;
 }

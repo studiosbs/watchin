@@ -9,7 +9,7 @@ body {
 
 .page {
     position: relative;
-    overflow: hidden;
+    overflow:visible;
     background-color: #141414;
 }
 

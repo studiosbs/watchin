@@ -24,16 +24,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/watchin/Pages/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/watchin/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/watchin/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/watchin/Pages/Series-Details.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VyaWVzLURldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/watchin/Shared/Footer.razor]
