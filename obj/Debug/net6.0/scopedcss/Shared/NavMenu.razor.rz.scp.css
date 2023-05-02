@@ -74,7 +74,7 @@ nav[b-d3yexukwxd]:before {
     padding: 0 4%;
 }
 
-.header-area[b-d3yexukwxd]{
+.header-area nav[b-d3yexukwxd]{
     height: 70px;
 }
 @media screen and (min-width: 1500px) {
@@ -112,7 +112,7 @@ nav[b-d3yexukwxd]:before {
     color: #fff;
     font-size: 1.4em;
     font-weight: 500;
-    padding: 28px !important;
+    padding: 20px !important;
 }
 
 .navbar .nav-item[b-d3yexukwxd] {
@@ -131,9 +131,9 @@ nav[b-d3yexukwxd]:before {
 }
 
 .navbar-brand[b-d3yexukwxd] {
-    margin-right: 40px;
+    margin-right: 25px;
     font-weight: 800;
-    font-size: 28px;
+    font-size: 25px;
     color: #5200ff;
 }
 
