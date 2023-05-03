@@ -16,77 +16,51 @@
 })(jQuery);
 
 $(document).ready(function () {
-    
-    /*$('#trending').slick({
-        accessibility: true,
-        arrows: true,
-        infinite: true,
-        slidesToShow: 4,
-        prevArrow: $('#trending-prev'),
-        nextArrow: $('#trending-next'),
-    });
-    $('#popular').slick({
-        accessibility: true,
-        arrows: true,
-        infinite: false,
-        slidesToShow: 4,
-        prevArrow: $('#popular-prev'),
-        nextArrow: $('#popular-next'),
-    });
-    $('#documentary').slick({
-        accessibility: true,
-        arrows: true,
-        infinite: false,
-        slidesToShow: 4,
-        prevArrow: $('#documentary-prev'),
-        nextArrow: $('#documentary-next'),
-    });
-    $('#forkids').slick({
-        accessibility: true,
-        arrows: true,
-        infinite: false,
-        slidesToShow: 4,
-        prevArrow: $('#forkids-prev'),
-        nextArrow: $('#forkids-next'),
-    });
-    $('related').slick({
-        accessibility: true,
-        arrows: true,
-        infinite: false,
-        slidesToShow: 4,
-        prevArrow: $('#related-prev'),
-        nextArrow: $('#related-next'),
-    });
-    $('season_1').slick({
-        accessibility: true,
-        arrows: true,
-        infinite: false,
-        slidesToShow: 4,
-        prevArrow: $('#season_1-prev'),
-        nextArrow: $('#season_1-next'),
-    });
-    $('#row1').slick({
-        slidesToShow: 5,
-        slidesToScroll: 5,
-        prevArrow: $('.handlePrev'),
-        nextArrow: $('.handleNext'),
-        variableWidth: false,
-        onInit: function () {
-            console.log('working');
-        },
-        afterChange: function (currentSlide) {
-            console.log(currentSlide);
-            $('.slider').slick('slickSetOption', 'infinite', true);
-            console.log('loop: on');
-        },
-    });*/
+    var prevButton = document.querySelector('.handlePrev');
+    prevButton.style.display = "none";
 });
-var swiper = new Swiper('.swiper', {
+
+var row1Prev = document.querySelector('#row1-prev');
+
+var swiper = new Swiper('#row1', {
     // Optional parameters
-    loop: false,
+    loop: true,
     slidesPerView: 5,
-    spaceBetween: 4,
+    /*spaceBetween: 4,*/
     slidesPerGroup: 5,
+
+    on: {
+        init: function () {
+            row1Prev.style.display = "none";
+        },
+        slideChange: function () {
+            row1Prev.style.display = "flex";
+        },
+    },
+    // Navigation arrows
+    navigation: {
+        nextEl: '.handleNext',
+        prevEl: '.handlePrev',
+    },
+});
+
+var row2Prev = document.querySelector('#row2-prev');
+
+var swiper2 = new Swiper('#row2', {
+    // Optional parameters
+    loop: true,
+    slidesPerView: 5,
+    /*spaceBetween: 4,*/
+    slidesPerGroup: 5,
+
+    on: {
+        init: function () {
+            row2Prev.style.display = "none";
+        },
+        slideChange: function () {
+            row2Prev.style.display = "flex";
+        },
+    },
     // Navigation arrows
     navigation: {
         nextEl: '.handleNext',
