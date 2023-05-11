@@ -1,0 +1,29 @@
+﻿<h3 class="modal-title">@ModalTitle</h3>
+
+<div class="modal-overlay" style="display: @((ShowModal) ? "block" : "none")">
+    <div class="modal">
+        <div class="modal-header">
+            <h2>@ModalTitle</h2>
+            <button @onclick="HideModal">X</button>
+        </div>
+        <div class="modal-body">
+            @ChildContent
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string ModalTitle { get; set; }
+
+    [Parameter]
+    public bool ShowModal { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    private void HideModal()
+    {
+        ShowModal = false;
+    }
+}
